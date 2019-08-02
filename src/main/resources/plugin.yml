@@ -1,0 +1,5 @@
+name: AntiMinecartGrief
+version: @version@
+main: io.github.hotlava03.antiminecartgrief.AntiMinecartGrief
+depend: [Factions]
+description: Prevents minecart griefing in factions
